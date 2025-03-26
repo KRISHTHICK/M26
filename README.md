@@ -1,5 +1,5 @@
 # M26
-Gen AI
+Gen AI 
 
 a chatbot that connects with a bucket and manages policy documents using Python, you will need to follow these steps:
 
